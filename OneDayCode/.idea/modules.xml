@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CondicionalEeOUMaiorQue10/CondicionalEeOUMaiorQue10.iml" filepath="$PROJECT_DIR$/CondicionalEeOUMaiorQue10/CondicionalEeOUMaiorQue10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CondicionalSwitchDiasDaSemana/CondicionalSwitchDiasDaSemana.iml" filepath="$PROJECT_DIR$/CondicionalSwitchDiasDaSemana/CondicionalSwitchDiasDaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConectivoLogicoEEntre5E20/ConectivoLogicoEEntre5E20.iml" filepath="$PROJECT_DIR$/ConectivoLogicoEEntre5E20/ConectivoLogicoEEntre5E20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConectivoLogicoOu1MaiorQue10/ConectivoLogicoOu1MaiorQue10.iml" filepath="$PROJECT_DIR$/ConectivoLogicoOu1MaiorQue10/ConectivoLogicoOu1MaiorQue10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConectivoOuMenorQue5OuMaiorQue10/ConectivoOuMenorQue5OuMaiorQue10.iml" filepath="$PROJECT_DIR$/ConectivoOuMenorQue5OuMaiorQue10/ConectivoOuMenorQue5OuMaiorQue10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio02/Exercicio02.iml" filepath="$PROJECT_DIR$/Exercicio02/Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio03/Exercicio03.iml" filepath="$PROJECT_DIR$/Exercicio03/Exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio04LerESomar3Valores/Exercicio04LerESomar3Valores.iml" filepath="$PROJECT_DIR$/Exercicio04LerESomar3Valores/Exercicio04LerESomar3Valores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio05LerNomeESobrenome/Exercicio05LerNomeESobrenome.iml" filepath="$PROJECT_DIR$/Exercicio05LerNomeESobrenome/Exercicio05LerNomeESobrenome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioLeDoisInteirosSomaMaiorQueDez/ExercicioLeDoisInteirosSomaMaiorQueDez.iml" filepath="$PROJECT_DIR$/ExercicioLeDoisInteirosSomaMaiorQueDez/ExercicioLeDoisInteirosSomaMaiorQueDez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioParOuImpar/ExercicioParOuImpar.iml" filepath="$PROJECT_DIR$/ExercicioParOuImpar/ExercicioParOuImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For10a20de2em2/For10a20de2em2.iml" filepath="$PROJECT_DIR$/For10a20de2em2/For10a20de2em2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLer5ValoresEMostrarSoma/ForLer5ValoresEMostrarSoma.iml" filepath="$PROJECT_DIR$/ForLer5ValoresEMostrarSoma/ForLer5ValoresEMostrarSoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LerPalavra5OuMaisLetras/LerPalavra5OuMaisLetras.iml" filepath="$PROJECT_DIR$/LerPalavra5OuMaisLetras/LerPalavra5OuMaisLetras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LerPalavraECompararDia/LerPalavraECompararDia.iml" filepath="$PROJECT_DIR$/LerPalavraECompararDia/LerPalavraECompararDia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matriz2Por3/Matriz2Por3.iml" filepath="$PROJECT_DIR$/Matriz2Por3/Matriz2Por3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrizesLer9ValoresEImprimir/MatrizesLer9ValoresEImprimir.iml" filepath="$PROJECT_DIR$/MatrizesLer9ValoresEImprimir/MatrizesLer9ValoresEImprimir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OneDayCode.iml" filepath="$PROJECT_DIR$/.idea/OneDayCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorDiaDaSemana/VetorDiaDaSemana.iml" filepath="$PROJECT_DIR$/VetorDiaDaSemana/VetorDiaDaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorLerValoresEBuscar/VetorLerValoresEBuscar.iml" filepath="$PROJECT_DIR$/VetorLerValoresEBuscar/VetorLerValoresEBuscar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileInteirosEntre2Numeros/WhileInteirosEntre2Numeros.iml" filepath="$PROJECT_DIR$/WhileInteirosEntre2Numeros/WhileInteirosEntre2Numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileMultiplicaPor2AteMaiorQue100/WhileMultiplicaPor2AteMaiorQue100.iml" filepath="$PROJECT_DIR$/WhileMultiplicaPor2AteMaiorQue100/WhileMultiplicaPor2AteMaiorQue100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhilePrimeiros10Naturais/WhilePrimeiros10Naturais.iml" filepath="$PROJECT_DIR$/WhilePrimeiros10Naturais/WhilePrimeiros10Naturais.iml" />
+    </modules>
+  </component>
+</project>
